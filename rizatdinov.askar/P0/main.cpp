@@ -2,6 +2,6 @@
 
 int main()
 {
-  std::cout << "Hello, World!\n";
+  std::cout << "rizatdinov.askar\n";
   return 0;
 }
